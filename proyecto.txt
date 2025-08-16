@@ -1,1 +1,2 @@
 Inicio del proyecto o proyecto inicial
+Funcion 2 en la consola para ver que onda

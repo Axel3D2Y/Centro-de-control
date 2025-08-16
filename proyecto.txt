@@ -1,3 +1,7 @@
 Inicio del proyecto o proyecto inicial
 Correccion urgente sobre algo
-Funcion 2 en la consola para ver que onda
+Funcion 2 en la consola para ver que onda<<<<<<< HEAD
+=======
+añadir la funcion 2
+Añadir otra cosa a rama 2
+>>>>>>> 47418 (Commmit para hacer un pick-cherry)

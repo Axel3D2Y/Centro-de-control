@@ -1,2 +1,3 @@
 Inicio del proyecto o proyecto inicial
 Correccion urgente sobre algo
+Funcion 2 en la consola para ver que onda
